@@ -1,6 +1,7 @@
 #########################################
 # OS-specific temporary and backup files
 .DS_Store
+extra_test_for_debug/
 
 #########################################
 # Editor temporary/working/backup files #
